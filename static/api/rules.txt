@@ -1,0 +1,40 @@
+--------------- Regeln ---------------
+* Kein Griefing
+* Kein Diebstahl
+* Keine Lagmaschienen oder Konstruktionen, die die Performance des Servers signifikant negativ beeinflussen.
+* Kein Cheating
+* Keine Beleidigungen [Case-by-Case]
+* Nur erlaubte Modifikationen
+* Items, die defenitiv nicht da sein sollten, MÜSSEN sofort dem Team gemeldet werden.
+* Wir behalten uns vor, die Regeln jeder Zeit ohne Ankündigung zu ändern
+* Wir behalten uns vor auch nach eigenem Ermessen, ohne den Verstoß gegen einer der Regeln Maßnahmen zu ergreifen
+
+---- Griefing ----
+1: Training, or angering hostile mobs to chase you at another player. This is named because the chain of mobs looks like a train.
+2: Camping, or killing a player, then killing them again at their point of death or the spawn.
+3: PVP stalking, or stalking a player and continuing to kill them. This is similar to camping, but occurs with the same player for a long period of time.
+4: Chat spamming, or adding random text or profanity into the chat.
+5: Walls. Self-explanatory, but must be constructed out of a high-level material that cannot be easily destroyed. This is also used to defend against griefers.
+6: Encasement in walls. Normal walls, but surrounding a player so s/he can't get out.
+7: Sniping. This is normally not griefing, but is a form of the PVP stalker.
+8: Destroying Structures built by other players without their explicit permission.
+
+[Deutsche Übersetzung | Keine Haftung]
+1: Training, or angering hostile mobs to chase you at another player. This is named because the chain of mobs looks like a train.
+2: Camping, or killing a player, then killing them again at their point of death or the spawn.
+3: PVP stalking, or stalking a player and continuing to kill them. This is similar to camping, but occurs with the same player for a long period of time.
+4: Chat spamming, or adding random text or profanity into the chat.
+5: Walls. Self-explanatory, but must be constructed out of a high-level material that cannot be easily destroyed. This is also used to defend against griefers.
+6: Encasement in walls. Normal walls, but surrounding a player so s/he can't get out.
+7: Sniping. This is normally not griefing, but is a form of the PVP stalker.
+8: Destroying Structures built by other players without their explicit permission.
+
+
+
+---- Erlaubte Modifikationen ----
+* LabyMod
+* BadLion
+* LunarClient
+* Optifine
+* Fabric
+WARNUNG: Forge ist nicht erlaubt
