@@ -89,6 +89,13 @@
         </div>
     </div>
     <h1 class="h1 heading mt-small">imuteCraft</h1>
+    <div class="center">
+        <a class="mc-text mc-button" href="https://docs.google.com/forms/d/e/1FAIpQLSeljc3x33mrpJ7Tvzh4AIdTgYfuQbqUF3GW7cHAxdRtCmo5zw/viewform" target="_blank"><span>Teilnehmen</span></a>
+    </div>
+    <div class="center">
+        <a class="mc-text mc-button" href="/ic/rules.html"><span>Regeln</span></a>
+    </div>
+    <br>
     <span class="mc-text">Server-IP: </span><input type="text" disabled value="mc.imute.ml" class="ic_ip mc-text">
     <style>
         @import url("/static/fonts/mcf.css");
@@ -109,10 +116,34 @@
             padding: 5px;
             width: 300px;
         }
+
+        .mc-button {
+            background-image: url("/static/images/mcbtn.png");
+            background-position: center;
+            background-size: cover;
+            image-rendering: pixelated;
+	        border: 2px solid #000;
+            width: calc(196px * 2);
+            height: calc(16px * 2);
+            cursor: pointer;
+        }
+
+        .mc-button:hover {
+            border: 2px solid #fff;
+        }
+
+        .mc-button > span {
+            color: #fff;
+            text-shadow: 2px 2px 1px #000;
+        }
+
+        .mc-button:hover > span {
+            color: #ffff00;
+        }
     </style>
     <script>
         // Set the date we're counting down to
-        var countDownDate = new Date("Dec 25, 2021 18:00:00").getTime();
+        var countDownDate = new Date("Dec 27, 2021 18:00:00").getTime();
         var type = 0;
 
 
