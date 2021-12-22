@@ -1,35 +1,34 @@
+Letzte Änderung: 06:22 22 Dez 2021
+
 --------------- Regeln ---------------
 * Kein Griefing
 * Kein Diebstahl
 * Keine Lagmaschienen oder Konstruktionen, die die Performance des Servers signifikant negativ beeinflussen.
-* Kein Cheating
+* Kein Cheating/Haking
 * Keine Beleidigungen [Case-by-Case]
-* Nur erlaubte Modifikationen
+* Kein Chat-Spamming
+* Nur erlaubte Modifikationen und/oder Resourcenpakete
 * Items, die defenitiv nicht da sein sollten, MÜSSEN sofort dem Team gemeldet werden.
 * Wir behalten uns vor, die Regeln jeder Zeit ohne Ankündigung zu ändern
 * Wir behalten uns vor auch nach eigenem Ermessen, ohne den Verstoß gegen einer der Regeln Maßnahmen zu ergreifen
 
 ---- Griefing ----
-1: Training, or angering hostile mobs to chase you at another player. This is named because the chain of mobs looks like a train.
-2: Camping, or killing a player, then killing them again at their point of death or the spawn.
-3: PVP stalking, or stalking a player and continuing to kill them. This is similar to camping, but occurs with the same player for a long period of time.
-4: Chat spamming, or adding random text or profanity into the chat.
-5: Walls. Self-explanatory, but must be constructed out of a high-level material that cannot be easily destroyed. This is also used to defend against griefers.
-6: Encasement in walls. Normal walls, but surrounding a player so s/he can't get out.
-7: Sniping. This is normally not griefing, but is a form of the PVP stalker.
-8: Destroying Structures built by other players without their explicit permission.
+1: [PvP] Spieler ohne deren Einwilligung töten
+2: [PvP] "Training": Eine Gruppe von Mobs auf einen Spieler oder mehrere Spieler hetzten
+3: [PvP] "Camping": Töte einen Spieler, und töte ihn sofort ein weiteres mal bei ihrem Wiedereinstiegspunkt
+4: [PvP] "PvP-Stalking": Vermehrtes Töten eines einzelnen Spielers über einen längeren Zeitraum
+5: "Spawntrapping": Erstelle eine automatisierte Konstruktion, die Spieler bei ihrem Wiedereinstiegspunkt tötet
+6: "Trapping": Spieler mit Hilfe von irgendwelchen Mechaniken "trappen" = einsperren, sodass sie auf lange Zeit, nur mit Hilfe oder gar nicht entkommen können oder sogar sterben. Außnahmen: siehe "Fallen"
+7: Die Zestörung oder Modifikation eines Bauwerks, dessen Erbauer/Besitzer man selber nicht ist, ohne die expliziete Erlaubnis des Erbauers/Besitzers. Darunter zählt auch Platzierung von Lava, etc.
 
-[Deutsche Übersetzung | Keine Haftung]
-1: Training, or angering hostile mobs to chase you at another player. This is named because the chain of mobs looks like a train.
-2: Camping, or killing a player, then killing them again at their point of death or the spawn.
-3: PVP stalking, or stalking a player and continuing to kill them. This is similar to camping, but occurs with the same player for a long period of time.
-4: Chat spamming, or adding random text or profanity into the chat.
-5: Walls. Self-explanatory, but must be constructed out of a high-level material that cannot be easily destroyed. This is also used to defend against griefers.
-6: Encasement in walls. Normal walls, but surrounding a player so s/he can't get out.
-7: Sniping. This is normally not griefing, but is a form of the PVP stalker.
-8: Destroying Structures built by other players without their explicit permission.
+---- Fallen ----
+Fallen sind erlaubt sollte folgendes erfüllt sein:
+ * Es muss ein unübersehbares Warnschild angebracht sein, dass einem mindestens 10 Blöcke im vorhinaus warnt. Das Warnschild muss auch vor der Konsequenz der Auslösung der Falle warnen, z.B: "Lebensgefahr"
+ * Die Falle darf anderen Spielern nicht den Weg zu ihren Niederlassungen oder denen anderer Spieler(der des Fallenstellers ausgenommen) blockieren.
 
-
+---- [PvP] ----
+* Die Regeln die den Präfix "[PvP]" haben werden ausgeklammert, wenn beide involvierte Spieler(Täter und Opfer) zur Zeit der Tat entweder den "[PvP]" oder "[Roleplay+PvP]" Suffix aktiviert hatten.
+ 
 
 ---- Erlaubte Modifikationen ----
 * LabyMod
