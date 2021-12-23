@@ -1,4 +1,4 @@
-Letzte Änderung: 06:22 22 Dez 2021
+Letzte Änderung: 23:05 23 Dez 2021
 
 --------------- Regeln ---------------
 * Kein Griefing
@@ -9,6 +9,7 @@ Letzte Änderung: 06:22 22 Dez 2021
 * Kein Chat-Spamming
 * Nur erlaubte Modifikationen und/oder Resourcenpakete
 * Items, die defenitiv nicht da sein sollten, MÜSSEN sofort dem Team gemeldet werden.
+* Verlasse die Niederlassung eines anderen Spielers, sobald dieser dies fordert
 * Wir behalten uns vor, die Regeln jeder Zeit ohne Ankündigung zu ändern
 * Wir behalten uns vor auch nach eigenem Ermessen, ohne den Verstoß gegen einer der Regeln Maßnahmen zu ergreifen
 
@@ -17,13 +18,13 @@ Letzte Änderung: 06:22 22 Dez 2021
 2: [PvP] "Training": Eine Gruppe von Mobs auf einen Spieler oder mehrere Spieler hetzten
 3: [PvP] "Camping": Töte einen Spieler, und töte ihn sofort ein weiteres mal bei ihrem Wiedereinstiegspunkt
 4: [PvP] "PvP-Stalking": Vermehrtes Töten eines einzelnen Spielers über einen längeren Zeitraum
-5: "Spawntrapping": Erstelle eine automatisierte Konstruktion, die Spieler bei ihrem Wiedereinstiegspunkt tötet
+5: "Spawntrapping": Erstellung einer automatisierten Konstruktion, die Spieler bei ihrem Wiedereinstiegspunkt tötet
 6: "Trapping": Spieler mit Hilfe von irgendwelchen Mechaniken "trappen" = einsperren, sodass sie auf lange Zeit, nur mit Hilfe oder gar nicht entkommen können oder sogar sterben. Außnahmen: siehe "Fallen"
 7: Die Zestörung oder Modifikation eines Bauwerks, dessen Erbauer/Besitzer man selber nicht ist, ohne die expliziete Erlaubnis des Erbauers/Besitzers. Darunter zählt auch Platzierung von Lava, etc.
 
 ---- Fallen ----
 Fallen sind erlaubt sollte folgendes erfüllt sein:
- * Es muss ein unübersehbares Warnschild angebracht sein, dass einem mindestens 10 Blöcke im vorhinaus warnt. Das Warnschild muss auch vor der Konsequenz der Auslösung der Falle warnen, z.B: "Lebensgefahr"
+ * Es muss ein unübersehbares Warnschild angebracht sein, dass einen mindestens 10 Blöcke im vorhinaus warnt. Das Warnschild muss auch vor der Konsequenz der Auslösung der Falle warnen, z.B: "Lebensgefahr"
  * Die Falle darf anderen Spielern nicht den Weg zu ihren Niederlassungen oder denen anderer Spieler(der des Fallenstellers ausgenommen) blockieren.
 
 ---- [PvP] ----
